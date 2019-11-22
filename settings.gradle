@@ -1,2 +1,4 @@
-include ':app'
-rootProject.name='SignaturePadRebuild'
+rootProject.name='SignaturePad'
+
+include ':signature-pad', ':SignaturePad-Example'
+
